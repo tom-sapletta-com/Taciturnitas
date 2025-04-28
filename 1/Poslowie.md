@@ -1,6 +1,6 @@
-# Posłowie do opowiadania "Taciturnitas"
+## Posłowie do opowiadania "Taciturnitas"
 
-## O mechanizmach psychologicznych w opowiadaniu
+Łacińskie słowo "taciturnitas" (małomówność, powściągliwość) doskonale oddaje centralny temat opowiadania – milczenie, które może być zarówno ochroną, jak i pułapką. Wskazuje na powściągliwość Adama, która początkowo wydaje się niewinną cechą charakteru, by później okazać się fundamentem poważnych nieporozumień. W kulturze rzymskiej "taciturnitas" była cenioną cnotą, co dodatkowo podkreśla ironię sytuacji – to, co tradycyjnie uważane za zaletę, staje się źródłem konfliktu.
 
 "Taciturnitas" to krótkie studium psychologiczne ukazujące złożoną dynamikę relacji międzyludzkich, szczególnie w kontekście niewypowiedzianych różnic wartości i przekonań. Opowiadanie eksploruje kilka kluczowych mechanizmów psychologicznych, które często występują w bliskich relacjach:
 
@@ -19,9 +19,6 @@ Opowiadanie ilustruje, jak łatwo w sytuacji konfliktu popadamy w myślenie bina
 ### 5. Reintegracja poprzez akceptację różnic
 Droga do naprawy relacji wiedzie przez bolesne uświadomienie sobie własnych mechanizmów psychologicznych i akceptację odmienności drugiej osoby. Adam i Marta muszą odkryć, że różnica nie musi oznaczać antagonizmu, a tożsamość nie musi być budowana w opozycji do drugiej osoby.
 
-## Znaczenie tytułu
-
-Łacińskie słowo "taciturnitas" (małomówność, powściągliwość) doskonale oddaje centralny temat opowiadania – milczenie, które może być zarówno ochroną, jak i pułapką. Wskazuje na powściągliwość Adama, która początkowo wydaje się niewinną cechą charakteru, by później okazać się fundamentem poważnych nieporozumień. W kulturze rzymskiej "taciturnitas" była cenioną cnotą, co dodatkowo podkreśla ironię sytuacji – to, co tradycyjnie uważane za zaletę, staje się źródłem konfliktu.
 
 ## Uniwersalność tematyki
 
