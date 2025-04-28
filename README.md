@@ -166,46 +166,80 @@ Zamiast tego powiedział tylko: "Porozmawiajmy o tym kiedy indziej," jego głos 
 ![4.png](4.png)
 
 "Zbudowałam nas na kłamstwie, którego sama byłam autorką," powiedziała Marta, siedząc na przeciwległym końcu kanapy.
-Adam już nie hamował frustracji, która narastała w nim przez miesiące. "Wasze protesty szkodzą lokalnym przedsiębiorcom.
-A wegetarianizm? Szanuję wybór, ale nie uważam go za moralny imperatyw." Jego ton był ostrzejszy niż kiedykolwiek, ale
-wciąż daleki od skrajności. "Czy zawsze tak myślałeś, czy dopiero teraz, gdy czujesz się osaczony?" zapytała cicho. Adam
-wstał, podszedł do okna, jego ramiona napięte. "Zawsze byłem pragmatykiem. Na początku... nie przywiązywałem wagi do
-tych kwestii. Potem..." urwał, niezdolny do przyznania, jak bardzo jej założenia go uwierały. Marta potrząsnęła głową. "
-Dlaczego więc pozwoliłeś mi wierzyć, że podzielasz moje przekonania?" Adam nalał sobie whisky, wciąż nie patrząc jej w
-oczy. "Bo na początku nie miało to znaczenia. A później... bałem się, że stracę cię, gdy poznasz prawdę." Zapadła ciężka
-cisza. "Czy nadal mnie kochasz?" zapytała w końcu, jej głos ledwie słyszalny. Upił łyk alkoholu, a jego milczenie było
-jak ściana między nimi – nie z braku miłości, ale z nadmiaru nagromadzonych nieporozumień i żalu.
+Adam już nie hamował frustracji, która narastała w nim przez miesiące. 
+
+"Wasze protesty szkodzą lokalnym przedsiębiorcom.
+A wegetarianizm? Szanuję wybór, ale nie uważam go za moralny imperatyw.
+
+"Jego ton był ostrzejszy niż kiedykolwiek, ale wciąż daleki od skrajności. "Czy zawsze tak myślałeś, czy dopiero teraz, gdy czujesz się osaczony?" zapytała cicho. 
+
+Adam wstał, podszedł do okna, jego ramiona napięte. "Zawsze byłem pragmatykiem. 
+
+Na początku... nie przywiązywałem wagi do
+tych kwestii. Potem..." urwał, niezdolny do przyznania, jak bardzo jej założenia go uwierały. 
+
+Marta potrząsnęła głową. "Dlaczego więc pozwoliłeś mi wierzyć, że podzielasz moje przekonania?" Adam nalał sobie whisky, wciąż nie patrząc jej w oczy. 
+"Bo na początku nie miało to znaczenia. 
+
+A później... bałem się, że stracę cię, gdy poznasz prawdę." 
+Zapadła ciężka cisza. 
+"Czy nadal mnie kochasz?" zapytała w końcu, jej głos ledwie słyszalny. 
+
+Upił łyk alkoholu, a jego milczenie było jak ściana między nimi – nie z braku miłości, ale z nadmiaru nagromadzonych nieporozumień i żalu.
 
 # Rozdział 5: Retrospekcja
 
 ![5.png](5.png)
 
 W ciszy swojego mieszkania Marta analizowała minione miesiące, dostrzegając sygnały, które ignorowała. Drobne grymasy
-Adama przy jej idealistycznych deklaracjach. Jego nieobecność na protestach. Zmiana tematu, gdy rozmowa stawała się zbyt
-polityczna. "Dlaczego tak desperacko potrzebowałam, żeby był moim odbiciem?" zapytała pustą przestrzeń. Adam tymczasem
-przeglądał dokumentację projektu, który dwa dni wcześniej, po konfrontacji z Martą, celowo przekierował do dostawcy,
-którego ona krytykowała. Zatrzymał się w połowie zdania, zdumiony własnym zachowaniem. "Dlaczego to zrobiłem? Przecież
-wcześniej rozważałem jej argumenty..." Przypomniał sobie, jak stopniowo, z każdą niewypowiedzianą niezgodą, rosła w nim
-potrzeba odreagowania. "Co właściwie czujesz do wegetarianizmu?" – zapytał go kiedyś kolega z pracy. "Szczerze?
-Obojętność," odpowiedział wtedy, by za chwilę dodać z nieoczekiwaną goryczą: "Chociaż słuchając niektórych, to
-fanatyzm." Jego własna odpowiedź zaskoczyła go – kiedy obojętność przerodziła się w antagonizm? Czy dlatego, że jej
-wartości stały się klatką, czy może sam dla siebie stworzył więzienie z niewypowiedzianych słów?
+Adama przy jej idealistycznych deklaracjach. Jego nieobecność na protestach. 
+Zmiana tematu, gdy rozmowa stawała się zbyt polityczna.
+"Dlaczego tak desperacko potrzebowałam, żeby był moim odbiciem?" zapytała pustą przestrzeń. 
+
+Adam tymczasem przeglądał dokumentację projektu, który dwa dni wcześniej, po konfrontacji z Martą, 
+celowo przekierował do dostawcy, którego ona krytykowała. 
+
+Zatrzymał się w połowie zdania, zdumiony własnym zachowaniem. 
+"Dlaczego to zrobiłem? 
+Przecież wcześniej rozważałem jej argumenty..." 
+Przypomniał sobie, jak stopniowo, z każdą niewypowiedzianą niezgodą, rosła w nim potrzeba odreagowania. 
+"Co właściwie czujesz do wegetarianizmu?" – zapytał go kiedyś kolega z pracy. 
+"Szczerze?
+
+Obojętność," odpowiedział wtedy, by za chwilę dodać z nieoczekiwaną goryczą: 
+"Chociaż słuchając niektórych, to fanatyzm." 
+Jego własna odpowiedź zaskoczyła go – kiedy obojętność przerodziła się w antagonizm?
+
+Czy dlatego, że jej wartości stały się klatką, czy może sam dla siebie stworzył więzienie z niewypowiedzianych słów?
 
 # Rozdział 6: Nowy Początek
 
 ![6.png](6.png)
 
 Po dwóch tygodniach spotkali się w neutralnej przestrzeni – kawiarni. "Zrozumiałam coś ważnego," powiedziała Marta. "
-Potrzebowałam, żebyś był odbiciem moich przekonań. Gdy milczałeś, wypełniłam tę ciszę własną narracją." Adam skinął
-głową. "A ja, zamiast być szczerym, pozwoliłem na tę iluzję. Z czasem czułem się coraz bardziej osaczony tożsamością,
-której nie wybierałem." Zapadła krótka cisza. "Czy myślisz, że gdybym od początku nie robiła tylu założeń, wszystko
-potoczyłoby się inaczej?" spytała z wahaniem. Adam spojrzał przez okno, jego oczy podążały za parą trzymającą się za
-ręce na ulicy. Odkryli bolesną prawdę – wartości, które wcześniej były dla niego neutralne, stały się punktami oporu,
-gdy poczuł, że są mu narzucane. "Czy wciąż jest dla nas szansa?" – zapytała cicho. "Może istnieje przestrzeń między
-całkowitą zgodą a wrogością?" dodała, gdy odpowiedź nie nadchodziła. Adam ściskał w dłoniach kubek z kawą, jego twarz
-łagodniejsza niż przez ostatnie tygodnie. "Nie wiem," przyznał wreszcie. "Ale chciałbym się dowiedzieć, kim jesteśmy
-poza tymi rolami, w które się zaszufladkowaliśmy. Czy można kochać kogoś, kto reprezentuje odmienne wartości, nie
-próbując go zmienić?"
+Potrzebowałam, żebyś był odbiciem moich przekonań. 
+
+Gdy milczałeś, wypełniłam tę ciszę własną narracją.
+"Adam skinął głową. " A ja, zamiast być szczerym, pozwoliłem na tę iluzję. 
+Z czasem czułem się coraz bardziej osaczony tożsamością, której nie wybierałem."
+
+Zapadła krótka cisza. 
+
+"Czy myślisz, że gdybym od początku nie robiła tylu założeń, wszystko potoczyłoby się inaczej?" spytała z wahaniem.
+
+Adam spojrzał przez okno, jego oczy podążały za parą trzymającą się za ręce na ulicy.
+
+Odkryli bolesną prawdę – wartości, które wcześniej były dla niego neutralne, 
+stały się punktami oporu, gdy poczuł, że są mu narzucane.
+
+"Czy wciąż jest dla nas szansa?" – zapytała cicho. "Może istnieje przestrzeń między całkowitą zgodą a wrogością?"
+dodała, gdy odpowiedź nie nadchodziła. 
+
+Adam ściskał w dłoniach kubek z kawą, jego twarz łagodniejsza niż przez ostatnie tygodnie. 
+"Nie wiem," przyznał wreszcie. 
+
+"Ale chciałbym się dowiedzieć, kim jesteśmy poza tymi rolami, w które się zaszufladkowaliśmy. 
+Czy można kochać kogoś, kto reprezentuje odmienne wartości, nie próbując go zmienić?"
 
 # Epilog
 
