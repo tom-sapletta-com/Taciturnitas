@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.1.16] - 2025-04-28
+
+### Added
+- Changes in 2/post.md
+
 ## [0.1.15] - 2025-04-28
 
 ## [0.1.14] - 2025-04-28
