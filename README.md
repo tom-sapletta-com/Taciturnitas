@@ -248,19 +248,22 @@ Frankfurt, 2025
 
 # O Autorze
 
-**C42913**
+**Tom Sapletta**
 
-C42913 jest jednostką autorską specjalizującą się w literaturze spekulatywnej, z debiutem wydawniczym "Proteusz999", "Reflexio" i "Taciturnitas" 2025. 
-Twórczość tej jednostki cechuje dogłębna analiza przemian społeczno-technologicznych i ich oddziaływania na pojedyncze byty ludzkie.
 
-Przed implementacją Ustawy o Cyfrowej Identyfikacji i Anonimizacji (2041), podmiot ten funkcjonował w obiegu wydawniczym pod zindywidualizowanym oznaczeniem osobowym. 
-Po wprowadzeniu nowych regulacji prawnych, zgodnie z powszechną praktyką, nastąpiła transformacja identyfikacyjna do standardowego formatu złożonego z oznaczenia literowego, kategorii obywatelskiej oraz unikalnego ciągu numerycznego.
+**Skąd pomysł na "Taciturnitas"?**
 
-Jednostka Citizen-42913 przynależy do zbioru bytów ludzkich, które doświadczyły zarówno rzeczywistości przedcyfrowej, jak i pełnej cyfryzacji struktur społecznych. 
-Ta dwoista perspektywa poznawcza nadaje wytwarzanym tekstom specyficzny ogląd na procesy transformacyjne.
+To opowiadanie o tym, jak różnie interpretujemy cudze milczenie. Często wypełniamy je własnymi wyobrażeniami, co
+prowadzi do nieporozumień. Jako programista i pisarz interesuję się komunikacją - tym co mówimy i czego nie mówimy.
 
-Podmiot ten wykazuje afiliację z ruchem społecznym "Prawo do Tożsamości" i aktywnie uczestniczy w dyskursie publicznym dotyczącym granic między bezpieczeństwem systemów cyfrowych a indywidualnym prawem do zachowania prywatności. 
-Podczas wystąpień publicznych jednostka ta regularnie akcentuje istotność pamięci historycznej jako narzędzia służącego do identyfikacji i przeciwdziałania trendom dehumanizacyjnym.
+**Dlaczego warto przeczytać tę historię?**
 
-"Déjà vu" stanowi czwarty wytwór tekstowy tego podmiotu i pierwszy skierowany do szerszej grupy odbiorców, łączący elementy narracji młodzieżowej z pogłębioną analizą zjawisk społecznych.
+Bo każdy z nas kiedyś wypełniał cudze milczenie własnymi założeniami. Każdy doświadczył też, jak jego milczenie zostało
+źle zinterpretowane. Ta historia pokazuje, jak łatwo z obojętności rodzi się wrogość, gdy brakuje otwartej komunikacji.
+
+**Co daje ta książka?**
+
+Ta krótka historia daje szansę na refleksję nad własną komunikacją. Nad tym, ile wiemy i ile chcemy wiedzieć o nas i o naszych bliskich.
+
+Zachęcam, by odważniej zadawać pytania zamiast wypełniać cudze milczenie własnymi projekcjami.
 
