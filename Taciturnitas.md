@@ -136,6 +136,7 @@ Podczas wspólnej kolacji ze znajomymi, gdy Marta z pasją opowiadała o kolejne
 
 "Czy naprawdę wierzysz, że te protesty coś zmienią?" 
 zapytał później z ledwie wyczuwalną nutą sceptycyzmu – pierwszym sygnałem pęknięcia w fasadzie. 
+
 "A ty nie?" odpowiedziała pytaniem, jej oczy pełne nadziei.
 
 Zamiast odpowiedzieć, pocałował ją delikatnie, choć w jego umyśle formowała się już odpowiedź, której 
@@ -145,14 +146,15 @@ nie miał odwagi wypowiedzieć.
 
 ![3.png](3.png)
 
-Tydzień po nieudanym proteście Marty przeciwko nowemu projektowi korporacyjnemu, spotkanie firmowe Adama stało się
-punktem zwrotnym. Marta przyszła niespodziewanie i zastała go śmiejącego się z kolegami, jedzącego stek i – co
-najgorsze – omawiającego zalety tego samego projektu, który ona zwalczała. "Jak mogłeś?" – szepnęła, gdy wyszli na
-zewnątrz. 
+Tydzień po nieudanym proteście Marty przeciwko nowemu projektowi korporacyjnemu, 
+spotkanie firmowe Adama stało się punktem zwrotnym. 
+Marta przyszła niespodziewanie i zastała go śmiejącego się z kolegami, jedzącego stek i 
+– co najgorsze – omawiającego zalety tego samego projektu, który ona zwalczała. 
+"Jak mogłeś?" – szepnęła, gdy wyszli na zewnątrz. 
 
 "Nigdy nie powiedziałem, że jestem wegetarianinem. Nigdy nie mówiłem, że potępiam ten projekt," odpowiedział
-Adam, jego głos ostrzejszy niż zamierzał. "Ale przecież... gdy pytałam cię o te kwestie... myślałam, że... dlaczego
-nigdy nie powiedziałeś mi prawdy?" 
+Adam, jego głos ostrzejszy niż zamierzał. 
+"Ale przecież... gdy pytałam cię o te kwestie... myślałam, że... dlaczego nigdy nie powiedziałeś mi prawdy?" 
 
 Marta czuła, jak fundamenty ich związku pękają. 
 
@@ -183,10 +185,9 @@ urwał, niezdolny do przyznania, jak bardzo jej założenia go uwierały.
 
 Marta potrząsnęła głową.
 "Dlaczego więc pozwoliłeś mi wierzyć, że podzielasz moje przekonania?" 
-Adam nalał sobie whisky, wciąż nie patrząc jej w oczy." 
-Bo na początku nie miało to znaczenia. 
+Adam nalał sobie whisky, wciąż nie patrząc jej w oczy.
 
-A później... bałem się, że stracę cię, gdy poznasz prawdę." 
+"Bo na początku nie miało to znaczenia. A później... bałem się, że stracę cię, gdy poznasz prawdę." 
 Zapadła ciężka cisza. 
 
 "Czy nadal mnie kochasz?" zapytała w końcu, jej głos ledwie słyszalny. 
@@ -197,8 +198,9 @@ Upił łyk alkoholu, a jego milczenie było jak ściana między nimi – nie z b
 
 ![5.png](5.png)
 
-W ciszy swojego mieszkania Marta analizowała minione miesiące, dostrzegając sygnały, które ignorowała. Drobne grymasy
-Adama przy jej idealistycznych deklaracjach. Jego nieobecność na protestach. 
+W ciszy swojego mieszkania Marta analizowała minione miesiące, dostrzegając sygnały, które ignorowała. 
+Drobne grymasy Adama przy jej idealistycznych deklaracjach. 
+Jego nieobecność na protestach. 
 Zmiana tematu, gdy rozmowa stawała się zbyt polityczna.
 
 "Dlaczego tak desperacko potrzebowałam, żeby był moim odbiciem?" zapytała pustą przestrzeń. 
@@ -211,9 +213,7 @@ Zatrzymał się w połowie zdania, zdumiony własnym zachowaniem.
 
 Przypomniał sobie, jak stopniowo, z każdą niewypowiedzianą niezgodą, rosła w nim potrzeba odreagowania. 
 "Co właściwie czujesz do wegetarianizmu?" – zapytał go kiedyś kolega z pracy. 
-"Szczerze?
-
-Obojętność," odpowiedział wtedy, by za chwilę dodać z nieoczekiwaną goryczą: 
+"Szczerze? Obojętność," odpowiedział wtedy, by za chwilę dodać z nieoczekiwaną goryczą: 
 "Chociaż słuchając niektórych, to fanatyzm." 
 
 Jego własna odpowiedź zaskoczyła go – kiedy obojętność przerodziła się w antagonizm?
