@@ -103,12 +103,16 @@ body > h2:first-of-type {
 ![1.png](1.png)
 
 Marta zobaczyła Adama podczas dyskusji o prawach zwierząt. Nie odezwał się ani słowem, ale jego przytakiwanie i uśmiech
-sugerowały, że podziela jej zaangażowanie. Wieczorem, rozmawiając, Adam słuchał z uwagą jej idealistycznych wizji
+sugerowały, że podziela jej zaangażowanie. 
+Wieczorem, rozmawiając, Adam słuchał z uwagą jej idealistycznych wizji
 świata, nie przerywając. "Co myślisz o propozycji całkowitego zakazu hodowli przemysłowej?" zapytała, szukając
 potwierdzenia swoich przekonań. Adam uśmiechnął się łagodnie, wypił łyk wina i zaczął opowiadać o swoich studiach,
-zręcznie omijając pytanie. Dla Marty jego unik był niemal niezauważalny – wypełniła jego milczenie własnymi
-założeniami. "Zawsze byłeś taki wrażliwy na cierpienie?" spytała, dotykając jego dłoni. Spojrzał na nią z czułością,
-nieznacznie się wzdrygając – drobny gest dyskomfortu, którego nie dostrzegła. Jego pragmatyczna natura podpowiadała, że
+zręcznie omijając pytanie. 
+Dla Marty jego unik był niemal niezauważalny – wypełniła jego milczenie własnymi
+założeniami. "Zawsze byłeś taki wrażliwy na cierpienie?" spytała, dotykając jego dłoni. 
+Spojrzał na nią z czułością,
+nieznacznie się wzdrygając – drobny gest dyskomfortu, którego nie dostrzegła. 
+Jego pragmatyczna natura podpowiadała, że
 korekta jej założeń wprowadziłaby niepotrzebne napięcie. "Lepiej nie burzyć tej chwili," pomyślał, nie zdając sobie
 sprawy, jak wysoką cenę przyjdzie im za to zapłacić.
 
@@ -118,12 +122,18 @@ sprawy, jak wysoką cenę przyjdzie im za to zapłacić.
 
 Trzy miesiące później ich związek kwitł w oparciu o niezachwianą wiarę Marty, że Adam podziela jej wartości. "
 Przygotowałam dla nas kolację wegetariańską, jak lubisz," powiedziała pewnego wieczoru. Adam skrzywił się nieznacznie,
-zanim uśmiech wrócił na jego twarz. Nie sprostował jej założenia, choć mięso jadał regularnie w pracy. "Dlaczego nigdy
+zanim uśmiech wrócił na jego twarz. Nie sprostował jej założenia, choć mięso jadał regularnie w pracy. 
+
+"Dlaczego nigdy
 nie stajesz z nami w pierwszym szeregu protestów?" zapytała kilka dni później wprost. Adam spojrzał w dal, wskazał na
-zachodzące słońce i powiedział: "Piękny widok, prawda?" – a ona, zauroczona chwilą, zapomniała o pytaniu. Wewnątrz Adama
-kiełkowała irytacja. Podczas wspólnej kolacji ze znajomymi, gdy Marta z pasją opowiadała o kolejnej akcji, zacisnął
-palce na kieliszku wina. "Czy naprawdę wierzysz, że te protesty coś zmienią?" zapytał później z ledwie wyczuwalną nutą
+zachodzące słońce i powiedział: "Piękny widok, prawda?" – a ona, zauroczona chwilą, zapomniała o pytaniu. 
+
+Wewnątrz Adama kiełkowała irytacja. Podczas wspólnej kolacji ze znajomymi, gdy Marta z pasją opowiadała o kolejnej akcji, zacisnął
+palce na kieliszku wina. 
+
+"Czy naprawdę wierzysz, że te protesty coś zmienią?" zapytał później z ledwie wyczuwalną nutą
 sceptycyzmu – pierwszym sygnałem pęknięcia w fasadzie. "A ty nie?" odpowiedziała pytaniem, jej oczy pełne nadziei.
+
 Zamiast odpowiedzieć, pocałował ją delikatnie, choć w jego umyśle formowała się już odpowiedź, której nie miał odwagi
 wypowiedzieć.
 
@@ -134,13 +144,22 @@ wypowiedzieć.
 Tydzień po nieudanym proteście Marty przeciwko nowemu projektowi korporacyjnemu, spotkanie firmowe Adama stało się
 punktem zwrotnym. Marta przyszła niespodziewanie i zastała go śmiejącego się z kolegami, jedzącego stek i – co
 najgorsze – omawiającego zalety tego samego projektu, który ona zwalczała. "Jak mogłeś?" – szepnęła, gdy wyszli na
-zewnątrz. "Nigdy nie powiedziałem, że jestem wegetarianinem. Nigdy nie mówiłem, że potępiam ten projekt," odpowiedział
+zewnątrz. 
+
+"Nigdy nie powiedziałem, że jestem wegetarianinem. Nigdy nie mówiłem, że potępiam ten projekt," odpowiedział
 Adam, jego głos ostrzejszy niż zamierzał. "Ale przecież... gdy pytałam cię o te kwestie... myślałam, że... dlaczego
-nigdy nie powiedziałeś mi prawdy?" Marta czuła, jak fundamenty ich związku pękają. Adam wpatrywał się w chodnik, jego
-twarz napięta. "Zbiera się na deszcz," zauważył, zmieniając temat. "Czy ty mnie w ogóle słuchasz?" zapytała z
-narastającą frustracją. Adam wydawał się walczyć ze sobą – część niego chciała wyjaśnić, że początkowo zależało mu po
-prostu na harmonii, później bał się jej rozczarowania, aż wreszcie zaczął czuć się osaczony jej wartościami. Zamiast
-tego powiedział tylko: "Porozmawiajmy o tym kiedy indziej," jego głos drżący od tłumionych emocji.
+nigdy nie powiedziałeś mi prawdy?" 
+
+Marta czuła, jak fundamenty ich związku pękają. 
+
+Adam wpatrywał się w chodnik, jego twarz napięta. "Zbiera się na deszcz," zauważył, zmieniając temat. 
+
+"Czy ty mnie w ogóle słuchasz?" zapytała z narastającą frustracją. 
+
+Adam wydawał się walczyć ze sobą – część niego chciała wyjaśnić, że początkowo zależało mu po
+prostu na harmonii, później bał się jej rozczarowania, aż wreszcie zaczął czuć się osaczony jej wartościami. 
+
+Zamiast tego powiedział tylko: "Porozmawiajmy o tym kiedy indziej," jego głos drżący od tłumionych emocji.
 
 # Rozdział 4: Konfrontacja
 
