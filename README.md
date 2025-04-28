@@ -172,21 +172,23 @@ Zamiast tego powiedział tylko: "Porozmawiajmy o tym kiedy indziej," jego głos 
 "Zbudowałam nas na kłamstwie, którego sama byłam autorką," powiedziała Marta, siedząc na przeciwległym końcu kanapy.
 Adam już nie hamował frustracji, która narastała w nim przez miesiące. 
 
-"Wasze protesty szkodzą lokalnym przedsiębiorcom.
-A wegetarianizm? Szanuję wybór, ale nie uważam go za moralny imperatyw.
+"Wasze protesty szkodzą lokalnym przedsiębiorcom. A wegetarianizm? Szanuję wybór, ale nie uważam go za moralny imperatyw."
 
-"Jego ton był ostrzejszy niż kiedykolwiek, ale wciąż daleki od skrajności. "Czy zawsze tak myślałeś, czy dopiero teraz, gdy czujesz się osaczony?" zapytała cicho. 
+Jego ton był ostrzejszy niż kiedykolwiek, ale wciąż daleki od skrajności. 
+"Czy zawsze tak myślałeś, czy dopiero teraz, gdy czujesz się osaczony?" zapytała cicho. 
 
-Adam wstał, podszedł do okna, jego ramiona napięte. "Zawsze byłem pragmatykiem. 
+Adam wstał, podszedł do okna, jego ramiona napięte. 
+"Zawsze byłem pragmatykiem. Na początku... nie przywiązywałem wagi do tych kwestii. Potem..."
+urwał, niezdolny do przyznania, jak bardzo jej założenia go uwierały. 
 
-Na początku... nie przywiązywałem wagi do
-tych kwestii. Potem..." urwał, niezdolny do przyznania, jak bardzo jej założenia go uwierały. 
-
-Marta potrząsnęła głową. "Dlaczego więc pozwoliłeś mi wierzyć, że podzielasz moje przekonania?" Adam nalał sobie whisky, wciąż nie patrząc jej w oczy. 
-"Bo na początku nie miało to znaczenia. 
+Marta potrząsnęła głową.
+"Dlaczego więc pozwoliłeś mi wierzyć, że podzielasz moje przekonania?" 
+Adam nalał sobie whisky, wciąż nie patrząc jej w oczy." 
+Bo na początku nie miało to znaczenia. 
 
 A później... bałem się, że stracę cię, gdy poznasz prawdę." 
 Zapadła ciężka cisza. 
+
 "Czy nadal mnie kochasz?" zapytała w końcu, jej głos ledwie słyszalny. 
 
 Upił łyk alkoholu, a jego milczenie było jak ściana między nimi – nie z braku miłości, ale z nadmiaru nagromadzonych nieporozumień i żalu.
@@ -198,20 +200,22 @@ Upił łyk alkoholu, a jego milczenie było jak ściana między nimi – nie z b
 W ciszy swojego mieszkania Marta analizowała minione miesiące, dostrzegając sygnały, które ignorowała. Drobne grymasy
 Adama przy jej idealistycznych deklaracjach. Jego nieobecność na protestach. 
 Zmiana tematu, gdy rozmowa stawała się zbyt polityczna.
+
 "Dlaczego tak desperacko potrzebowałam, żeby był moim odbiciem?" zapytała pustą przestrzeń. 
 
 Adam tymczasem przeglądał dokumentację projektu, który dwa dni wcześniej, po konfrontacji z Martą, 
 celowo przekierował do dostawcy, którego ona krytykowała. 
 
 Zatrzymał się w połowie zdania, zdumiony własnym zachowaniem. 
-"Dlaczego to zrobiłem? 
-Przecież wcześniej rozważałem jej argumenty..." 
+"Dlaczego to zrobiłem? Przecież wcześniej rozważałem jej argumenty..." 
+
 Przypomniał sobie, jak stopniowo, z każdą niewypowiedzianą niezgodą, rosła w nim potrzeba odreagowania. 
 "Co właściwie czujesz do wegetarianizmu?" – zapytał go kiedyś kolega z pracy. 
 "Szczerze?
 
 Obojętność," odpowiedział wtedy, by za chwilę dodać z nieoczekiwaną goryczą: 
 "Chociaż słuchając niektórych, to fanatyzm." 
+
 Jego własna odpowiedź zaskoczyła go – kiedy obojętność przerodziła się w antagonizm?
 
 Czy dlatego, że jej wartości stały się klatką, czy może sam dla siebie stworzył więzienie z niewypowiedzianych słów?
