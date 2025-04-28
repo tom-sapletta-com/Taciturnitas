@@ -148,16 +148,16 @@ def md_to_pdf(md_file, pdf_file, cover_image=None):
             <style>
                 body {{ 
                     font-family: Arial, sans-serif; 
-                    line-height: 1.6; 
+                    line-height: 2; 
                     max-width: 800px; 
                     margin: 0 auto; 
-                    padding: 20px; 
+                    padding: 10px; 
                 }}
                 img {{ 
                     max-width: 100%; 
                     height: auto; 
                     display: block; 
-                    margin: 20px auto; 
+                    margin: 10px auto; 
                 }}
                 h1, h2 {{ color: #333; }}
                 code {{ 
