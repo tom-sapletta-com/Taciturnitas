@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.1.4] - 2025-04-28
+
+### Added
+- Changes in 1/7.png
+
 ## [0.1.3] - 2025-04-28
 
 ## [0.1.2] - 2025-04-28

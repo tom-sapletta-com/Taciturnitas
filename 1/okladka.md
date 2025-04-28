@@ -3,5 +3,5 @@
 ---
 
 tytuł: Taciturnitas
-autor: C42913
+autor: Tom Sapletta
 miejsce i czas: Frankfurt 2025
