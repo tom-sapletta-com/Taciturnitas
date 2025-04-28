@@ -116,14 +116,14 @@ def process_markdown_images(html, base_dir):
 
     return str(soup)
 
-
-def md_to_pdf(md_file, pdf_file, cover_image=None):
+def md_to_pdf(md_file, pdf_file, cover_image=None, font_size=16):
     """
     Konwersja Markdown do PDF z zaawansowanym przetwarzaniem obrazów
 
     :param md_file: Ścieżka do pliku Markdown
     :param pdf_file: Ścieżka do wyjściowego pliku PDF
     :param cover_image: Opcjonalny obraz okładki
+    :param font_size: Rozmiar czcionki w pikselach (domyślnie 16)
     """
     try:
         # Katalog bazowy dokumentu
@@ -139,7 +139,6 @@ def md_to_pdf(md_file, pdf_file, cover_image=None):
         # Przetworz obrazy w HTML
         processed_html = process_markdown_images(html, base_dir)
 
-        # Dodaj podstawowy szablon HTML
         full_html = f"""
         <!DOCTYPE html>
         <html>
@@ -151,7 +150,14 @@ def md_to_pdf(md_file, pdf_file, cover_image=None):
                     line-height: 2; 
                     max-width: 800px; 
                     margin: 0 auto; 
-                    padding: 10px; 
+                    padding: 20px;
+                    font-size: {font_size}px;
+                }}
+                p {{
+                    font-size: {font_size}px;
+                }}
+                li {{
+                    font-size: {font_size}px;
                 }}
                 img {{ 
                     max-width: 100%; 
@@ -159,17 +165,48 @@ def md_to_pdf(md_file, pdf_file, cover_image=None):
                     display: block; 
                     margin: 10px auto; 
                 }}
-                h1, h2 {{ color: #333; }}
+                h1 {{ 
+                    color: #333;
+                    font-size: {font_size * 1.8}px;
+                }}
+                h2 {{ 
+                    color: #333;
+                    font-size: {font_size * 1.5}px;
+                }}
+                h3 {{ 
+                    color: #333;
+                    font-size: {font_size * 1.3}px;
+                }}
+                h4 {{ 
+                    color: #333;
+                    font-size: {font_size * 1.1}px;
+                }}
                 code {{ 
                     background-color: #f4f4f4; 
                     padding: 2px 4px; 
-                    border-radius: 4px; 
+                    border-radius: 4px;
+                    font-size: {font_size * 0.9}px;
                 }}
                 pre {{ 
                     background-color: #f4f4f4; 
                     padding: 10px; 
                     border-radius: 4px; 
-                    overflow: auto; 
+                    overflow: auto;
+                    font-size: {font_size * 0.9}px;
+                }}
+                table {{
+                    border-collapse: collapse;
+                    width: 100%;
+                    margin: 20px 0;
+                    font-size: {font_size}px;
+                }}
+                th, td {{
+                    border: 1px solid #ddd;
+                    padding: 8px;
+                    text-align: left;
+                }}
+                th {{
+                    background-color: #f2f2f2;
                 }}
             </style>
         </head>
@@ -190,29 +227,26 @@ def md_to_pdf(md_file, pdf_file, cover_image=None):
                     cover_src = 'file://' + os.path.abspath(resized_cover)
                     # Dodaj obraz okładki przed treścią
                     full_html = full_html.replace('<body>',
-                                                  f'<body><img src="{cover_src}" style="width: 100%; margin-bottom: 20px;">')
+                                                 f'<body><img src="{cover_src}" style="width: 100%; margin-bottom: 20px;">')
 
         # Konwertuj HTML do PDF
         weasyprint.HTML(string=full_html, base_url='file://' + base_dir + '/').write_pdf(pdf_file)
-
         logger.info("Konwersja PDF zakończona sukcesem!")
         return True
-
     except Exception as e:
         logger.error(f"Błąd konwersji PDF: {e}")
         import traceback
         traceback.print_exc()
         return False
 
-
 # Uruchom konwersję
 if __name__ == '__main__':
     try:
-        success = md_to_pdf('README.md', 'Taciturnitas.pdf', cover_image='okladka.png')
+        # Możesz dostosować rozmiar czcionki tutaj (domyślnie 16px)
+        success = md_to_pdf('README.md', 'Taciturnitas.pdf', cover_image='okladka.png', font_size=18)
         if not success:
             print("Konwersja PDF nie powiodła się. Sprawdź logi.")
     except Exception as e:
         print(f"Nieoczekiwany błąd podczas konwersji PDF: {e}")
         import traceback
-
         traceback.print_exc()
